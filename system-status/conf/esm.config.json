@@ -1,0 +1,91 @@
+{
+    "esm": {
+        "version": "2.5.1",
+        "website": "https://sambhavs-server.ddns.net",
+        "check_updates": true,
+        "auto_refresh": 10,
+        "theme": "dark",
+        "custom_title": "Sambhav's Server - Status"
+    },
+    "cpu": {
+        "enable_temperature": true
+    },
+    "disk": {
+        "show_tmpfs": false,
+        "show_loop": false,
+        "show_filesystem": true,
+        "ignore_mounts": ["/boot/efi"]
+    },
+    "ping": {
+        "hosts": [
+            "facebook.com",
+            "google.com",
+            "yahoo.com",
+			"1.1.1.1",
+			"github.com"
+        ]
+    },
+    "last_login": {
+        "enable": false,
+        "max": 5
+    },
+    "services": {
+        "show_port": true,
+        "list": [
+            {
+                "name": "Apache (HTTP Web Server)",
+                "host": "localhost",
+                "port": 80,
+                "protocol": "tcp"
+            },
+			{
+				"name": "Apache (HTTPS Web Server)",
+                "host": "localhost",
+                "port": 443,
+                "protocol": "tcp"
+			},
+            {
+                "name": "Sendmail",
+                "host": "localhost",
+                "port": 25,
+                "protocol": "tcp"
+            },
+            {
+                "name": "Database Server",
+                "host": "localhost",
+                "port": 3306,
+                "protocol": "tcp"
+            },
+            {
+                "name": "SSH",
+                "host": "localhost",
+                "port": 22,
+                "protocol": "tcp"
+            },
+			{
+				"name": "OnlyOffice",
+				"host": "localhost",
+				"port": 1545,
+				"protocol": "tcp"
+			},
+ 			{
+				"name": "Superset",
+				"host": "localhost",
+				"port": 8088,
+				"protocol": "tcp"
+			},
+            {
+				"name": "Redis Server",
+				"host": "localhost",
+				"port": 6379,
+				"protocol": "tcp"
+			},
+			{
+				"name": "Minecraft Server",
+				"host": "192.168.1.205",
+				"port": 25565,
+				"protocol": "tcp"
+			}
+        ]
+    }
+}

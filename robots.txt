@@ -1,0 +1,5 @@
+User-agent *
+Sitemap: https://sambhavs-server.ddns.net/sitemap.xml
+Disallow: /error
+Disallow: /navbar.html
+Disallow: /footer.html 

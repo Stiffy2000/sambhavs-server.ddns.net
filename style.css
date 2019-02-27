@@ -1,0 +1,67 @@
+h1 {
+    color: #00FF00;
+    font-family: monospace;
+}
+
+h2 {
+	color: #00FF00;
+}
+
+h3 {
+	color: #00FF00;
+}
+
+h4 {
+	color: #00FF00;
+}
+
+h5 {
+	color: #00FF00;
+}
+
+h6 {
+	color: #00FF00;
+}
+
+a {
+	color: #00FF00;
+}
+
+p {
+    color: #00FF00;
+    font-family: monospace;
+}
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+html {
+	background-color: #000;
+	font-family: monospace;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #a7a7a7;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	font-family: monospace;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #000000;
+    color: #00FF00;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #00FF00;
+    color: #000000;
+}

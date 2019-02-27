@@ -1,0 +1,111 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://sambhavs-server.ddns.net/</loc>
+  <lastmod>2019-01-21T00:25:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/news.html</loc>
+  <lastmod>2019-01-21T19:26:18+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/projects.html</loc>
+  <lastmod>2019-01-21T19:22:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/about.html</loc>
+  <lastmod>2019-01-21T19:22:50+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/status.html</loc>
+  <lastmod>2019-01-21T19:23:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/blog/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/nextcloud/login</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/ssh.html</loc>
+  <lastmod>2019-01-20T23:33:33+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/sike/</loc>
+  <lastmod>2019-01-21T23:43:04+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/hackna/</loc>
+  <lastmod>2019-01-23T16:46:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/system-status/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/apache-status/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/blog/2019/01/28/customizing-lightdm/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/blog/2019/01/28/the-server-saga-part-1/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/nextcloud/apps/registration/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/hackna/text.html</loc>
+  <lastmod>2019-01-23T16:46:57+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/system-status/index.php</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/blog/category/linux/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/blog/category/uncategorized/</loc>
+  <lastmod>2019-01-29T12:31:09+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://sambhavs-server.ddns.net/hackna/index.html</loc>
+  <lastmod>2019-01-23T16:46:57+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+</urlset>
