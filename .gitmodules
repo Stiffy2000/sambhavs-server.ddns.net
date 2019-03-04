@@ -1,0 +1,6 @@
+[submodule "phpsysinfo"]
+	path = phpsysinfo
+	url = ./phpsysinfo/
+[submodule "safe2say"]
+	path = safe2say
+	url = ./safe2say/
